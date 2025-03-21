@@ -41,7 +41,7 @@ KUBECONFIG: Configuração do Kubernetes (se necessário).
 
 Quando um novo commit for feito no repositório, a pipeline será acionada automaticamente.
 
-Deploy no Kubernetes:
+4. **Deploy no Kubernetes:**
 
 Acesse o cluster para verificar:
 ```bash
